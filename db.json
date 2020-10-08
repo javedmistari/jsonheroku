@@ -2,11 +2,12 @@
   "Employee": [
     {
       "id": 1,
-      "name": "Aabid",
-      "email": "aabid@gmail.com",
-      "dob": "1986-12-10T18:30:00.000Z",
-      "number": "9881929712",
-      "address": "106, Malik Nagar, Mehrun, Jalgaon"
+      "empId":	1,
+      "name": "Javed",
+      "email": "javed@gmail.com",
+      "dob": "1990-12-10T18:30:00.000Z",
+      "number": "7558653808",
+      "address": "Mumbai"
     }
   ]
 }
