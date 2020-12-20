@@ -1,13 +1,33 @@
 {
   "Employee": [
-    {
-      "id": 1,
-      "empId":	1,
-      "name": "Javed",
-      "email": "javed@gmail.com",
-      "dob": "1990-12-10T18:30:00.000Z",
-      "number": "7558653808",
-      "address": "Mumbai"
-    }
+    
+  {
+    "id": 1,
+    "empId": 1,
+    "name": "Javed",
+    "email": "javed@gmail.com",
+    "dob": "1990-12-10T18:30:00.000Z",
+    "number": "7558653808",
+    "address": "Mumbai"
+  },
+  {
+    "name": "Mahesh",
+    "email": "mahesh@gmail.com",
+    "dob": "1990-02-21T18:30:00.000Z",
+    "number": "7558653809",
+    "address": "206, Techno Park, Kurla ( w ), Mumbai, 400024",
+    "empId": 2,
+    "id": 2
+  },
+  {
+    "name": "Gunjal",
+    "email": "gunjal@gmail.com",
+    "dob": "1993-06-16T18:30:00.000Z",
+    "number": "9860907090",
+    "address": "Nashik",
+    "empId": 3,
+    "id": 3
+  }
+
   ]
 }
