@@ -27,15 +27,6 @@
     "address": "Nashik",
     "empId": 3,
     "id": 3
-  },
-  {
-    "name": "Shahid",
-    "email": "shahid@gmail.com",
-    "dob": "1997-03-05T18:30:00.000Z",
-    "number": "8897665646",
-    "address": "Kurla",
-    "empId": 4,
-    "id": 4
   }
 ]
 }
